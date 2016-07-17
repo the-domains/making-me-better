@@ -6,9 +6,9 @@ color:
   saturation: 0.3726205627899617
   rhythmicContrast: 0.4916179107967764
   brandColors:
-    - '#000000'
-    - '#333333'
-    - '#FF358B'
-    - '#01B0F0'
-    - '#AEEE00'
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
 name: Making ME Better
